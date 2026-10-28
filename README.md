@@ -12,7 +12,7 @@ Fuente original: Grant Jenks http://www.grantjenks.com/docs/freegames/paint.html
 Funcionalidades:
 
 1. Color nuevo (Diego)(Hecho)
-2. Dibujar un círculo (Diego)(pendiente)
+2. Dibujar un círculo (Diego)(Hecho)
 3. Completar el rectángulo (Yerik)(pendiente)
 4. Completar el triángulo (Yerik)(pendiente)
 
