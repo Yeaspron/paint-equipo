@@ -13,7 +13,7 @@ Funcionalidades:
 
 1. Color nuevo (Diego)(pendiente)
 2. Dibujar un círculo (Diego)(pendiente)
-3. Completar el rectángulo (Yerik)(pendiente)
+3. Completar el rectángulo (Yerik)(hecho)
 4. Completar el triángulo (Yerik)(pendiente)
 
 Instrucciones para crear y activar el ambiente:
@@ -26,6 +26,14 @@ Ejecuta estos comandos en la terminal macOs o en UbuntuWSL:
 ESTOS COMANDOS SE EJECUTAN DENTRO DE LA CARPETA DEL PROYECTO
 
 Controles:
+Se utiliza la función line(start, end) para dibujar líneas rectas entre dos puntos seleccionados.
+* Se activa presionando la tecla l.
+* El primer clic establece el punto inicial.
+* El segundo clic establece el punto final.
 
-Haz click con el cursor en dos puntos para dibujar una línea
+Se implementó la función rectangle(start, end) para dibujar rectángulos utilizando dos puntos como esquinas opuestas.
+* Se activa presionando la tecla r.
+* El primer clic establece una esquina del rectángulo.
+* El segundo clic establece la esquina opuesta.
+
 
